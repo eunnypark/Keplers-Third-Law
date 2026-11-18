@@ -30,7 +30,7 @@
 
 ## 전체 탐구 보고서
 
-[케플러 제3법칙 분석 보고서 (PDF)](./docs/kepler_third_law_report.pdf)
+[탐구 보고서 (PDF)](./docs/인공지능수학 - 케플러제3법칙.pdf)
 
 ## 데이터 출처
 
